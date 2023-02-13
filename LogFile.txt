@@ -1,0 +1,15 @@
+[ERROR] Error caused by undefined funcion!
+[SUCCESSFULLY DONE] No Errors or Warnings! Good Job!
+[WARNING] Possible loss of data!
+[ERROR] Error caused by undefined funcion!
+[SUCCESSFULLY DONE] No Errors or Warnings! Good Job!
+[WARNING] Possible loss of data!
+[ERROR] now: "21:53:30" Error caused by undefined funcion!
+[SUCCESSFULLY DONE] now: "21:53:30" No Errors or Warnings! Good Job!
+[WARNING] now: "21:53:30" Possible loss of data!
+[ERROR] "22:33:23" Zero Division Error
+[SUCCESSFULLY DONE] "22:33:23" No Errors or Warnings! Good Job!
+[WARNING] "22:33:23" Possible loss of data!
+[ERROR] "22:44:04" Zero Division Error
+[SUCCESSFULLY DONE] "22:44:04" No Errors or Warnings! Good Job!
+[WARNING] "22:44:04" Possible loss of data!
