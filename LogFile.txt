@@ -1,0 +1,3 @@
+[ERROR] "16:12:24" Zero Division Error!!!
+[SUCCESSFULLY DONE] "16:12:24" No Errors or Warnings! Good Job!
+[WARNING] "16:12:24" Possible loss of data!
